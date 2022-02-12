@@ -1,5 +1,7 @@
 # List of countries REACT APP
 This is a visualized representation of countries that displays country name, region and area size. It is made using https://restcountries.com API.
+### Link
+https://ziviledauderiene.github.io/list-of-countries/
 
 ### Screenshot
 ![List-of-countries-app screenshot](https://github.com/ziviledauderiene/List-of-countries/blob/master/countries-app/public/screenshot-list-of-countries.png)
